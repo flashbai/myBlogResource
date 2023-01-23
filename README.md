@@ -1,0 +1,2 @@
+# myBlogResource
+my blog resource
